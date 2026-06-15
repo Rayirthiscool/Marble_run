@@ -1,2 +1,2 @@
-# Marble_run
+# marble-maze
 A game on marble mazes
